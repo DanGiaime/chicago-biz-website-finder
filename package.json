@@ -1,0 +1,14 @@
+{
+  "name": "smb-business-script",
+  "version": "1.0.0",
+  "description": "Find a bunch of SMB's emails ",
+  "main": "smb.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^2.6.0"
+  }
+}
