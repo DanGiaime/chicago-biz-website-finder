@@ -9,6 +9,7 @@
 ###### 3. Run commands
 
 `npm install`
-`node npm.js`
+
+`node smb.js`
 
 Made on stream at https://twitch.tv/roxkstar74
